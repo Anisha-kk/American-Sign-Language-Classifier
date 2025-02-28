@@ -17,5 +17,5 @@ Each training and test case represents a label (0-25) as a one-to-one map for ea
 The CNN classifier classified the test images with an accuracy score of ~90%, which is ~10% higher than the accuracy score of Random Forest classifier.
 ## Future Scope
 A lot of improvements can be done to this project. Some of them are as follows:<br>
-1. Perform classification from videos - this will enable inclusion of letters J and Z as well. Also, it can be used to decode words instead of letters which enables proper communication <br>
+1. Perform identification from videos - this will enable inclusion of letters J and Z as well. Also, it can be used to decode words instead of letters which enables proper communication <br>
 2. Real time ASL recognition: Create a text to speech translator to convert the letters or words to speech so as to improve communication. 
