@@ -18,4 +18,4 @@ Both Random Forest Classifier and Convolutional Neural Network (CNN) were used t
 ## Future Scope
 A lot of improvements can be done to this project. Some of them are as follows:<br>
 1. Perform identification from videos - this will enable inclusion of letters J and Z as well. Also, it can be used to decode words instead of letters which enables proper communication <br>
-2. Real time ASL recognition: Create a text to speech translator to convert the letters or words to speech so as to improve communication. 
+2. Real time ASL recognition: Create a text to speech translator that captures the sign language video convert the letters or words to speech in real time so as to improve communication. 
